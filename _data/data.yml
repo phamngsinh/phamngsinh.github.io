@@ -7,38 +7,35 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Pham Ng Sinh
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: phamngsinh39@gmail.com
+    phone: 0936961xxx
     timezone: America/Cancun Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    website: phamngsinh.blogspot.com #do not add http://
+    linkedin: phamngsinh
+    xing: phamngsinh
+    github: phamngsinh
+    telegram: phamngsinh # add your nickname without '@' sign
+    gitlab: phamngsinh
+    bitbucket: phamngsinh
+    twitter: '@phamngsinh'
+    stack-overflow: phamngsinh # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    goodreads: phamngsinh # Number-Username, e.g. 123456-alandoe
+    pdf: #
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: VietNam
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
@@ -47,10 +44,10 @@ sidebar:
         - item: Climbing
           link:
 
-        - item: Snowboarding
+        - item: Coding
           link:
 
-        - item: Cooking
+        - item: Diving
           link:
 
 career-profile:
